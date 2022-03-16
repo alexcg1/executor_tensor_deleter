@@ -1,0 +1,4 @@
+manifest_version: 1
+name: TensorDeleter
+description: "Set `doc.tensor` to `None`, thus reducing storage space for indexed data"
+keywords: [utility, 3.0-exclusive]
